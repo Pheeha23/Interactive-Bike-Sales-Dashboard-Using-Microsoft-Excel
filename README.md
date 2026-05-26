@@ -12,7 +12,7 @@ The dashboard was created using Pivot Tables, Pivot Charts, Slicers, and Excel f
 
 # Dashboard Preview
 
-![Bikes Sales Dashboard](Dashboard Screenshot.png)
+![Interactive Bike Sales Dashboard](Dashboard_Screenshot.png)
 
 ---
 
